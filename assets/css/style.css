@@ -18,6 +18,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    font-family: 'Bangers', cursive;
 }
 
 .header h1 .seo {
